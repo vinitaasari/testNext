@@ -73,7 +73,6 @@
     "start": "next start",
     "build": "next build",
     "dev": "next dev",
-    "testing": "serve -s build",
     "test": "next test",
     "eject": "next eject"
   },
